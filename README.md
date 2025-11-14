@@ -1,7 +1,10 @@
 
 # Pizza-Sales-Analysis
  The Pizza Sales Analysis Dashboard utilizes MySQL workbench
- and Tableau for comprehensive data analysis, aiding businesses in optimizing sales strategies and enhancing customer satisfaction
+ and Tableau for comprehensive data analysis,To analyze pizza sales revenue, identify trends, and provide insights to improve
+sales.
+Steps to Follow:
+
 # Project : Pizza Sales Analysis
 ## Table of Contents
 -	[Problem Statement](#problem-statement)
