@@ -127,7 +127,7 @@ Created a comprehensive dashboard in Tableau featuring key metrics and charts, i
 -	Average Pizzas Per Order [total pizzas sold] / [total orders]
 ##### Dashbaord
 <img width="958" height="536" alt="PIZAA SALES" src="https://github.com/user-attachments/assets/9836768e-447b-49ff-9018-d9e83e693e1e" />
-####Video Dashboard
+####Video Dashboard https://drive.google.com/file/d/1Z80QFOn59O02shD-3nB1kUD9f7DB9wMy/view?usp=drive_link
 
 
 
